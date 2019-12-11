@@ -6,14 +6,14 @@
         <groupId>com.cjtc</groupId>
         <artifactId>parent</artifactId>
         <version>1.0.0-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath/>
     </parent>
 
     <artifactId>eurekaclient</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>eurekaClient</name>
     <packaging>jar</packaging>
-    <description>eureka 消费中心</description>
+    <description>eureka 客户端</description>
 
     <properties>
         <spring-cloud.version>Hoxton.RELEASE</spring-cloud.version>
