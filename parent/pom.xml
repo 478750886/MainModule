@@ -70,7 +70,7 @@
 
     <modules>
         <module>../eureka/pom.xml</module>
-        <module>../eurekaClient/pom.xml</module>
+        <module>../sso/pom.xml</module>
     </modules>
 
 </project>

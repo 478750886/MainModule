@@ -1,10 +1,10 @@
-package com.cjtc.eurekaclient;
+package com.cjtc.sso;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EurekaclientApplicationTests {
+class SsoApplicationTests {
 
     @Test
     void contextLoads() {
