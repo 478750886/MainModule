@@ -13,7 +13,7 @@
     <version>1.0.0-SNAPSHOT</version>
     <name>eurekaClient</name>
     <packaging>jar</packaging>
-    <description>eureka 客户端</description>
+    <description>eureka 发现</description>
 
     <properties>
         <spring-cloud.version>Hoxton.RELEASE</spring-cloud.version>
