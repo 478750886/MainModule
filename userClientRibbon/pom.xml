@@ -8,10 +8,9 @@
         <version>1.0.0-SNAPSHOT</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <artifactId>sso</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>sso</name>
-    <packaging>jar</packaging>
-    <description>单点登录</description>
+    <artifactId>userclientribbon</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <name>userClientRibbon</name>
+    <description>用户的消费者ribbon</description>
 
 </project>

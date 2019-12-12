@@ -1,4 +1,4 @@
-package com.cjtc.sso;
+package com.cjtc.userclientribbon;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
@@ -8,11 +8,14 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 @Slf4j
 @EnableEurekaServer
 @SpringBootApplication
-public class SsoApplication {
+public class UserClientRibbonApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SsoApplication.class, args);
-        log.info("单点登录系统启动成功");
+        SpringApplication.run(UserClientRibbonApplication.class, args);
+        log.info("用户消费者服务启动成功");
     }
+
+
+
 
 }
